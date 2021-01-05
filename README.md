@@ -1,2 +1,2 @@
 # TowerOfHanoi
-A Tower off Hanoi Solver
+A Tower of Hanoi Solver
